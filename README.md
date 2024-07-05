@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
-<p align="left"><a href="https://www.linkedin.com/in/deepan-kumar-bishoyi-bb15a7227/">Linkedln</a></p>
+<p align="left"><a href="https://www.linkedin.com/in/deepan-kumar-bishoyi-bb15a7227/"><img src="![image](https://github.com/dipankumar1098/dipankumar1098/assets/145337793/3c11bab4-19a5-47a9-ba17-c9540a7a934a)" alt=Linkedln</a></p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
