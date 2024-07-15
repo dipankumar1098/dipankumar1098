@@ -9,7 +9,7 @@
 
 <img align="right" alt="coding" width="400" src="https://designfictives.com/assets/images/service/service-1.gif">
 
-- 🌱 I’m currently learning **React    ode JS    Mongo DB & Express**
+- 🌱 I’m currently learning **React    Node JS    Mongo DB  & Express**
 
 - 💬 Ask me about **WEB Technologies**
 
