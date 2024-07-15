@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **React  -Node JS   -Mongo DB  -Express**
 
-- 💬 Ask me about **React MySQL Node WEB Technology**
+- 💬 Ask me about **WEB Technologies**
 
-- 📫 How to reach me **kumardipan49@gmail.com**
+- 📫 Reach me **kumardipan49@gmail.com**
 
 
 
