@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dipan Kumar</h1>
-<h3 align="center">A passionate fullstack developer from Odisha</h3>
+<h1 align="center">Hi 👋, I'm Deepan</h1>
+<h3 align="center">A passionate fullstack Developer from Odisha</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipankumar1098&label=Profile%20views&color=0e75b6&style=flat" alt="dipankumar1098" /> </p>
 
