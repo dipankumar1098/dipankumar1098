@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **WEB Technologies**
 
-- 📫 Reach me **kumardipan49@gmail.com**
+- 📫 Reach me out **kumardipan49@gmail.com**
 
 
 
