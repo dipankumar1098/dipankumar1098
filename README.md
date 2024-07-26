@@ -20,7 +20,7 @@
 <p align="left"> 
   <h3 align="left">Connect with me:</h3>
 <p >
-<a href="www.linkedin.com/in/deepan-kumar-bishoyi-bb15a7227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepan kumar bishoyi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/deepan-kumar-bishoyi-bb15a7227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepan kumar bishoyi" height="30" width="40" /></a>
 <a href="https://fb.com/deepan kumar bishoyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deepan kumar bishoyi" height="30" width="40" /></a>
 <a href="https://instagram.com/i_amdeepan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_amdeepan" height="30" width="40" /></a>
 </p>
